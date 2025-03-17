@@ -19,6 +19,7 @@ Method & Process
 Timeframe
 
 Weeks 1 & 2: Project Set-Up
+
 •	Initial project set-up, getting together the tools and software needed to complete all stages of the project having identified key goals and outcomes required to complete the project
 
 •	Explore alternative methods for data collection, transformation and visualisation to allow for options and adaptation as project develops
@@ -26,6 +27,7 @@ Weeks 1 & 2: Project Set-Up
 •	Complete all required readings, lectures and peer discussions required for weeks 1 & 2, as well as reading through all units and key assignment requirements
 
 Weeks 3 – 5: Data Collection
+
 •	Familiarise with CS Educators Stack exchange website and the Schema for the SQL queries required to collect data
 
 •	Perform SQL queries to do initial data exploration and understand the data, identifying key features
@@ -33,6 +35,7 @@ Weeks 3 – 5: Data Collection
 •	Convert collected data to CSV format for easier handling
 
 Weeks 6 – 8: Data Cleaning & Poster session (Week 8)
+
 •	Check for errors/missing values as well as duplicate or irrelevant data to be removed
 
 •	Standardise text (from the posts) in transform to best suit exploratory data analysis
@@ -42,6 +45,7 @@ Weeks 6 – 8: Data Cleaning & Poster session (Week 8)
 •	Work through poster session in week 8 and begin work on poster design
 
 Weeks 9 – 12: Exploratory Data Analysis & Poster session (Week 11)
+
 •	Use data analysis with Python to explore the dataset and identify key themes and patterns
 
 •	Gather key statistics ready for data visualisation
@@ -57,6 +61,7 @@ Weeks 9 – 12: Exploratory Data Analysis & Poster session (Week 11)
 •	Progress Poster completed and submitted by 19/05/25
 
 Weeks 13 – 15: Data Visualisation
+
 •	Prepare and upload data to visualisation platform
 
 •	Create final data visualisations, considering design and clarity to best communicate findings
@@ -64,6 +69,7 @@ Weeks 13 – 15: Data Visualisation
 •	Interpret findings ready for final report
 
 Weeks 16 – 18: Summarise findings
+
 •	Summarise the key findings from the analysis
 
 •	Compare with findings from initial research in CSC-40100 (Literature review)
@@ -73,6 +79,7 @@ Weeks 16 – 18: Summarise findings
 •	Provide any recommendations based on insights
 
 Weeks 19 – 21: Write up final report
+
 •	Structure final report with core stages and sections
 
 •	Write up each section, including data visualisations and code where needed
@@ -91,6 +98,7 @@ Weeks 22 – 24: Proofread and final review + Presentation video if required
 
 
 Lessons Learned:
+
 (Will complete at the end of the project)
 
 
