@@ -419,3 +419,5 @@ venv/
 # Jupyter Notebook checkpoints
 .ipynb_checkpoints/
 
+my_saved_bertopic_model
+bertopic_original_like_model
